@@ -2,7 +2,7 @@
 - I’m Piriyalini Niththiyanantham
 - 👀 I’m currently working on web development 
 - 🌱 I’m currently learning ReactJs
-- 💬 Ask me about OOP concepts
+- 💬 Ask me about Java and Spring Boot
 - 📫 How to reach me: priyalini.18@itfac.mrt.ac.lk
 
 <!---
